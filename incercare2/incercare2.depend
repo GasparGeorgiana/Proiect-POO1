@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1607360897 source:d:\facultate\anul 2\semestrul 1\poo\incercare2\src\creion_mecanic.cpp
+	"produs.h"
+	"creion_mecanic.h"
+
+1607362067 d:\facultate\anul 2\semestrul 1\poo\incercare2\include\produs.h
+	<iostream>
+	<cstring>
+
+1607362067 d:\facultate\anul 2\semestrul 1\poo\incercare2\include\creion_mecanic.h
+	<iostream>
+	<cstring>
+	"produs.h"
+
+1607359824 source:d:\facultate\anul 2\semestrul 1\poo\incercare2\src\produs.cpp
+	"produs.h"
+
