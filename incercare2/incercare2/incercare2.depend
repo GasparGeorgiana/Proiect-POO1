@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1610881455 source:d:\facultate\anul 2\semestrul 1\poo\incercare2\src\creion_mecanic.cpp
+	"produs.h"
+	"creion_mecanic.h"
+
+1610881455 d:\facultate\anul 2\semestrul 1\poo\incercare2\include\produs.h
+	<iostream>
+	<cstring>
+
+1610881499 d:\facultate\anul 2\semestrul 1\poo\incercare2\include\creion_mecanic.h
+	<iostream>
+	<cstring>
+	"produs.h"
+	"set_mine.h"
+
+1610881455 source:d:\facultate\anul 2\semestrul 1\poo\incercare2\src\produs.cpp
+	"produs.h"
+
+1610884727 source:d:\facultate\anul 2\semestrul 1\poo\incercare2\main.cpp
+	<iostream>
+	"produs.h"
+	"creion_mecanic.h"
+	"stilou.h"
+	"penar.h"
+
+1610881455 d:\facultate\anul 2\semestrul 1\poo\incercare2\include\set_mine.h
+	<iostream>
+	<cstring>
+	"produs.h"
+
+1610881455 d:\facultate\anul 2\semestrul 1\poo\incercare2\include\stilou.h
+	<iostream>
+	<cstring>
+	"produs.h"
+
+1610884076 d:\facultate\anul 2\semestrul 1\poo\incercare2\include\penar.h
+	<iostream>
+	<cstring>
+	"produs.h"
+	"creion_mecanic.h"
+	"stilou.h"
+	"set_mine.h"
+
+1610881791 source:d:\facultate\anul 2\semestrul 1\poo\incercare2\src\set_mine.cpp
+	"set_mine.h"
+	<cstring>
+	"produs.h"
+
+1610884693 source:d:\facultate\anul 2\semestrul 1\poo\incercare2\src\stilou.cpp
+	<cstring>
+	"produs.h"
+	"stilou.h"
+
+1610884448 source:d:\facultate\anul 2\semestrul 1\poo\incercare2\src\penar.cpp
+	<cstring>
+	"creion_mecanic.h"
+	"stilou.h"
+	"penar.h"
+	"set_mine.h"
+
