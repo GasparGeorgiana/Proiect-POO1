@@ -3,7 +3,7 @@
 #include "produs.h"
 #include "creion_mecanic.h"
 #include "stilou.h"
-#include "mine.h"
+#include "set_mine.h"
  
 class penar: public produs
 {
