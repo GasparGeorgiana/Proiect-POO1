@@ -31,5 +31,7 @@ int set_mine::getBucatiSet() const {
 
 void set_mine::verificare_produs()
 {
-
+ 
+    if(getNr_produse() == 0)
+        throw "Nu mai avem aceste mine in stoc.";
 }
