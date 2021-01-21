@@ -1,4 +1,4 @@
-#include <xstring>
+#include <cstring>
 #include "creion_mecanic.h"
 #include "stilou.h"
 #include "penar.h"
