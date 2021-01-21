@@ -1,4 +1,4 @@
-#include <xstring>
+#include <cstring>
 #include "produs.h"
 #include "stilou.h"
  
