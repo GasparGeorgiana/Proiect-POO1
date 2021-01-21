@@ -4,7 +4,7 @@
 #include "creion_mecanic.h"
 #include "stilou.h"
 #include "penar.h"
-#include "trusta_geometrica.h"
+#include "trusa_geometrica.h"
  
 int main()
 {
